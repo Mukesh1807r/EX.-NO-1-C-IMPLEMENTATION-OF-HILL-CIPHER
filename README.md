@@ -60,7 +60,7 @@ void HillCipher(char message[], char key[]) {
 }
 
 int main() {
-    char message[] = "MUKESH R![Uploading Screenshot 2025-09-06 083853.png…]()
+    char message[] = "MUKESH R
 ";
     char key[] = "ABCDEFGH";
 
